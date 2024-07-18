@@ -1,0 +1,216 @@
+{
+  "token": "Z2NwLXVzLXdlc3QxOjAxSjBQTVk1Sjc5NVFKTjNOVlhLWENXQUI1?key=0d9909213054e22d092152de385763f0",
+  "note": "Hello!",
+  "attributes": {
+    "Gift wrap": "Yes"
+  },
+  "original_total_price": 3399,
+  "total_price": 2925,
+  "total_discount": 474,
+  "total_weight": 500,
+  "item_count": 2,
+  "items": [
+    {
+      "id": 39897499729985,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 39897499729985,
+      "key": "39897499729985:b1fca88d0e8bf5290f306f808785f744",
+      "title": "Health potion - S / Low",
+      "price": 900,
+      "original_price": 900,
+      "discounted_price": 900,
+      "line_price": 900,
+      "original_line_price": 900,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "",
+      "grams": 500,
+      "vendor": "Polina's Potent Potions",
+      "taxable": true,
+      "product_id": 6786188247105,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 900,
+      "final_line_price": 900,
+      "url": "/products/health-potion?selling_plan=610435137&variant=39897499729985",
+      "featured_image": {
+        "aspect_ratio": 1.5,
+        "alt": "Health potion",
+        "height": 1233,
+        "url": "https://cdn.shopify.com/s/files/1/0561/7470/6753/files/science-beakers-blue-light-new.jpg?v=1683744744",
+        "width": 1850
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0561/7470/6753/files/science-beakers-blue-light-new.jpg?v=1683744744",
+      "handle": "health-potion",
+      "requires_shipping": true,
+      "product_type": "Health",
+      "product_title": "Health potion",
+      "product_description": "Are you low on health? Well we've got the potion just for you!\nJust need a top up? Almost dead? In between? No need to worry because we have a range of sizes and strengths!",
+      "variant_title": "S / Low",
+      "variant_options": [
+        "S",
+        "Low"
+      ],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        },
+        {
+          "name": "Strength",
+          "value": "Low"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "has_components": false,
+      "selling_plan_allocation": {
+        "price_adjustments": [
+          {
+            "position": 1,
+            "price": 900
+          }
+        ],
+        "price": 900,
+        "compare_at_price": 1000,
+        "per_delivery_price": 900,
+        "selling_plan": {
+          "id": 610435137,
+          "name": "Delivery every 1 Week",
+          "description": null,
+          "options": [
+            {
+              "name": "1 Week(s), 4 Week(s)",
+              "position": 1,
+              "value": "1 Week(s)"
+            }
+          ],
+          "recurring_deliveries": true,
+          "fixed_selling_plan": false,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 39888235757633,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 39888235757633,
+      "key": "39888235757633:264890389795b468fe7b11339ff91c08",
+      "title": "Whole bloodroot",
+      "price": 2499,
+      "original_price": 2499,
+      "discounted_price": 2025,
+      "line_price": 2025,
+      "original_line_price": 2499,
+      "total_discount": 474,
+      "discounts": [
+        {
+          "amount": 250,
+          "title": "Bloodroot discount!"
+        },
+        {
+          "amount": 224,
+          "title": "Ingredient Sale"
+        }
+      ],
+      "sku": "",
+      "grams": 0,
+      "vendor": "Clover's Apothecary",
+      "taxable": true,
+      "product_id": 6792596455489,
+      "product_has_only_default_variant": true,
+      "gift_card": false,
+      "final_price": 2249,
+      "final_line_price": 2249,
+      "url": "/products/bloodroot-whole?variant=39888235757633",
+      "featured_image": {
+        "aspect_ratio": 1.5,
+        "alt": "Whole bloodroot",
+        "height": 2973,
+        "url": "https://cdn.shopify.com/s/files/1/0561/7470/6753/products/sweet-potato-pile.jpg?v=1650644893",
+        "width": 4460
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0561/7470/6753/products/sweet-potato-pile.jpg?v=1650644893",
+      "handle": "bloodroot-whole",
+      "requires_shipping": true,
+      "product_type": "Fruits & Vegetables",
+      "product_title": "Whole bloodroot",
+      "product_description": "",
+      "variant_title": null,
+      "variant_options": [
+        "Default Title"
+      ],
+      "options_with_values": [
+        {
+          "name": "Title",
+          "value": "Default Title"
+        }
+      ],
+      "line_level_discount_allocations": [
+        {
+          "amount": 250,
+          "discount_application": {
+            "type": "script",
+            "key": "10a5c368-efe2-4d60-9082-9e6c298759e8",
+            "title": "Bloodroot discount!",
+            "description": null,
+            "value": "2.5",
+            "created_at": "2023-11-07T18:21:24.074Z",
+            "value_type": "fixed_amount",
+            "allocation_method": "across",
+            "target_selection": "explicit",
+            "target_type": "line_item",
+            "total_allocated_amount": 250
+          }
+        }
+      ],
+      "line_level_total_discount": 250,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "has_components": false,
+      "unit_price": 4050,
+      "unit_price_measurement": {
+        "measured_type": "weight",
+        "quantity_value": "500.0",
+        "quantity_unit": "g",
+        "reference_value": 1,
+        "reference_unit": "kg"
+      }
+    }
+  ],
+  "requires_shipping": true,
+  "currency": "CAD",
+  "items_subtotal_price": 3149,
+  "cart_level_discount_applications": [
+    {
+      "type": "automatic",
+      "key": "468373bf-8996-41ee-b735-790f915179f9",
+      "title": "Ingredient Sale",
+      "description": "",
+      "value": "10.0",
+      "created_at": "2023-11-07T18:20:58.649Z",
+      "value_type": "percentage",
+      "allocation_method": "across",
+      "target_selection": "all",
+      "target_type": "line_item",
+      "total_allocated_amount": 224
+    }
+  ]
+}
